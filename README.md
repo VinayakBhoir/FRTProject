@@ -21,8 +21,17 @@ The primary objectives of this project are as follows:
 
 - **Interactive Elements**: Engage with interactive elements and visually appealing content to enhance the learning experience.
 
-## Getting Started
+## Technologies Used
 
+### Microsoft Azure
+
+This project utilizes various Microsoft Azure services to enhance its functionality and performance:
+
+- **Azure Container Apps**: The landing page is hosted using Azure Container Apps, providing a scalable and reliable environment for hosting web content.
+
+- **Azure Static Web App**: Azure Static Web App is used for serving static content efficiently, ensuring a smooth user experience.
+
+- **Azure Storage Accounts**: Azure Storage Accounts are used to store and manage various assets, including images, documents, and data related to the project.
 To get started with the Photography Tips and Techniques project, follow these steps:
 
 1. Clone the repository:
